@@ -43,11 +43,4 @@ CSI data is written in real time to:
  ```
  /data/<filename>.csv
  ```
-## Project Structure
- ```
- WifiSensing/
- active_ap/
- active_sta/
- data/
- README.md
- ```
+
