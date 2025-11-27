@@ -37,13 +37,13 @@
  Active STA:
  ```bash
  idf.py -p /dev/ttyUSB1 flash
- ```--
+ ```
 ## Data Output
 CSI data is written in real time to:
  ```
  /data/<filename>.csv
  ```
-## Project Structure (suggested)
+## Project Structure
  ```
  WifiSensing/
  active_ap/
