@@ -51,5 +51,3 @@ CSI data is written in real time to:
  data/
  README.md
  ```
-## Notes- Use high-quality USB cables to avoid serial drops.- If the grep "CSI_DATA" filter is too aggressive, remove it to log full serial output.- For Windows users, replace /dev/ttyUSB* with COM ports.
- ```
